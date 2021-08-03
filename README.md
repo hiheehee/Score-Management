@@ -26,11 +26,11 @@ test 결과 학생의 이름순으로 출력됩니다.
 ![management (3)](https://user-images.githubusercontent.com/49300728/127884398-b610829d-349b-4c73-b3f9-dece169ea606.png)
 # 결과
 scr > test > TestMain 실행 결과  
-* 학생을 더 추가하지 않았을 경우
+* 학생을 더 추가하지 않았을 경우  
 ![스크린샷(295)](https://user-images.githubusercontent.com/49300728/127940368-cc826c77-e151-4010-b894-97809cd2b7a3.png)  
 ![스크린샷(291)](https://user-images.githubusercontent.com/49300728/127884426-a0578877-3ddc-4f55-a51c-adb32fea1268.png)  
 ![스크린샷(290)](https://user-images.githubusercontent.com/49300728/127884429-96a21bc4-55b1-4e0e-83ca-17ed171c80f5.png)
-* 학생을 더 추가했을 경우
+* 학생을 더 추가했을 경우  
 ![스크린샷(296)](https://user-images.githubusercontent.com/49300728/127940374-3e6514ca-e36f-47dd-b0d4-306d512984fa.png)
 ![스크린샷(297)](https://user-images.githubusercontent.com/49300728/127940381-259bd3b1-f56f-4cc6-97b8-2111922801db.png)
 
