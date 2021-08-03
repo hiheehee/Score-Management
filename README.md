@@ -21,7 +21,7 @@ A+, B처럼 +/-를 사용하는 방법, Pass/Fail 만을 부여하는 방법등�
 test 결과 학생의 이름순으로 출력됩니다.  
 
 # UML
-![management (1)](https://user-images.githubusercontent.com/49300728/127884385-90ca080b-b4a1-4677-9781-70ccebb9968b.png)
+![management (4)](https://user-images.githubusercontent.com/49300728/127938320-176c6fa0-af5a-4fac-8171-f81049c3b147.png)  
 ![management (3)](https://user-images.githubusercontent.com/49300728/127884398-b610829d-349b-4c73-b3f9-dece169ea606.png)
 # 결과
 scr > test > TestMain 실행 결과  
