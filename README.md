@@ -1,5 +1,5 @@
 # Score management
-Java toy project
+Java project
 -----------------------------
 # Overview
 * Organization : None
