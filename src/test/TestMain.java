@@ -17,7 +17,7 @@ public class TestMain {
 	Subject korean; // 국어
 	Subject math; // 수학
 	Subject english; // 영어
-	
+	  
 	GenerateGradeReport gradeReport = new GenerateGradeReport(); // 출력
 	
 	public static void main(String[] args) throws IOException {
