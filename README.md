@@ -1,4 +1,4 @@
-# Score management
+# Score management  
 객체지향 프로그래밍을 이해하고 자바의 자료구조와 다양한 기능을 활용한 학생 성적 관리 프로그램
 -----------------------------
 # Overview
